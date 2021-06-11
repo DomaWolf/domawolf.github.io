@@ -1,3 +1,5 @@
+**This is a temporarely site til I make my own in html**
+
 ## Welcome to my website!
 
 Hi! I'm DomaWolf, a guy whose into tech, gaming and coding.
@@ -10,4 +12,6 @@ GitHub
 Reddit
 Twitter
 Spotify (Idonno why who knows)
+
+**This is a temporarely site til I make my own in html**
 
