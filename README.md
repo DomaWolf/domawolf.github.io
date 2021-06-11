@@ -9,7 +9,9 @@ Avaliablity:
  <a href="https://www.youtube.com/channel/UCrrho_IT_Q85KPlqjTtHttQ">YouTube</a> 
 </p>
 <p>Discord: DomaWolf#5464</p>
-<p>Twitch</p>
+<p>
+<a href="https://www.twitch.tv/akadomawolf">Twitch</a>
+</p>
 <p>GitHub</p>
 <p>Reddit</p>
 <p>Twitter</p>
