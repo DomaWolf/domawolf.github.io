@@ -5,7 +5,9 @@
 Hi! I'm DomaWolf, a guy whose into tech, gaming and coding.
 
 Avaliablity:
+<p>
  <a href="https://www.youtube.com/channel/UCrrho_IT_Q85KPlqjTtHttQ">YouTube</a> 
+</p>
 <p>Discord: DomaWolf#5464</p>
 <p>Twitch</p>
 <p>GitHub</p>
