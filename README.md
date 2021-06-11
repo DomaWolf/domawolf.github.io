@@ -24,5 +24,6 @@ Avaliablity:
 <a href="https://open.spotify.com/user/znogtdjrg2jei7wy5uph552fg">Spotify</a> (I donno y but who knows)
 </p>
 <p>Discord: DomaWolf#5464</p>
+
 **This is a temporarely site til I make my own in html**
 
